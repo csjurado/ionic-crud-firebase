@@ -1,12 +1,14 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: "AIzaSyCBnLP64i3Tsqg12F8sTmqr1nnsQaPo7dM",
-    authDomain: "app2023a-af122.firebaseapp.com",
-    projectId: "app2023a-af122",
-    storageBucket: "app2023a-af122.appspot.com",
-    messagingSenderId: "363003734298",
-    appId: "1:363003734298:web:d41f7193d7aaecd22d64a3",
-    measurementId: "G-S19XY4Y1F6"
+  apiKey: "AIzaSyA3HDkRSgCj-51B5MKiA6hUJ2prknHRKvA",
+  authDomain: "crudautos-a755f.firebaseapp.com",
+  databaseURL: "https://crudautos-a755f-default-rtdb.firebaseio.com",
+  projectId: "crudautos-a755f",
+  storageBucket: "crudautos-a755f.appspot.com",
+  messagingSenderId: "290439545428",
+  appId: "1:290439545428:web:fd67070958f1c95fd5a3c1"
   }
-}
+};
+
+
